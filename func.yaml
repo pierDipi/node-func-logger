@@ -3,3 +3,5 @@ name: logger
 runtime: node
 created: 2024-04-10T13:48:02.658845041+02:00
 invoke: cloudevent
+build:
+  builder: s2i
